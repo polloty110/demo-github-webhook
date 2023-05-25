@@ -10,12 +10,12 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String hello(){
 		System.out.println("hello world!!!");
-		return "hello world!!!";
+		return "hello world!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";
 	}
 	
 	@RequestMapping("")
 	public String hello1(){
-		System.out.println("please input /hello");
+		System.out.println("please input /hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		return "please input /hello";
 	}
 	
