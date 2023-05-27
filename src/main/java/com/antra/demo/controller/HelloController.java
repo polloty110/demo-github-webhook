@@ -10,7 +10,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String hello(){
 		System.out.println("hello world!!!");
-		return "hello world!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111";
+		return "hello world!!!!!!!!!!!!!!!!!!!!!testing for docker out file";
 	}
 	
 	@RequestMapping("")
