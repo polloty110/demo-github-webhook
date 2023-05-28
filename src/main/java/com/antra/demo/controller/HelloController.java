@@ -16,7 +16,7 @@ public class HelloController {
 	@RequestMapping("")
 	public String hello1(){
 		System.out.println("please input /hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-		return "please input /hello";
+		return "please input /hello docker created new image with existed java jar";
 	}
 	
 }
